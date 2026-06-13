@@ -1,0 +1,19 @@
+{
+  "code": 0,
+  "msg": "ok",
+  "result": {
+    "spools": [
+      {
+        "rfid_uid": "CB6951F4",
+        "material_id": "01001",
+        "material_name": "Hyper PLA",
+        "brand": "Creality",
+        "color": "#0066FF",
+        "weight_grams": 0,
+        "status": "empty",
+        "date_loaded": "2026-06-10",
+        "notes": "Empty Creality Hyper PLA spool - Blue color - Ready for reuse"
+      }
+    ]
+  }
+}
